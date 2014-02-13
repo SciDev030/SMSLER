@@ -3,7 +3,7 @@ SMSLER
 
 Source Code of the bada App SMS|ER
 
-# Requirements to build a app
+# Requirements to build an app
 
 * badaSDK 2.0.0 or higher
 * account on developer.bada.com
