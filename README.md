@@ -18,7 +18,7 @@ To use all features of the app you have to add follow privilegs for manifest.xml
 
 **Hint: You have to create a manifest for a WebApp**
 
-# HowTo Build a app
+# HowTo: build an app
 
 1. Open badaSDK and create a new "bada Web Project"
 2. Delete all files of the folder "Res"
@@ -26,7 +26,7 @@ To use all features of the app you have to add follow privilegs for manifest.xml
 3.1. You can also import the files through the badaSDK
 4. Import your manifest.xml from developer.bada.com
 
-# Supported Devices
+# Supported devices
 
 The source code runs perfect on bada devices with bada 2.0 if they have minimum resolution of 320x480.
 On SamsungApps WebApps only available for Wave 3, Wave M and Wave Y.
